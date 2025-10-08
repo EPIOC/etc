@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ETCMSelfCheckStatus" value="-1" />
+    <int name="ETCMSwitchStatus" value="-1" />
+    <int name="ETCMSelfCheckDetailBluetooth" value="-1" />
+    <int name="ETCMDismantleStatus" value="-1" />
+    <int name="ETCMSelfCheckDetailDsrcChip" value="-1" />
+    <int name="ETCMBluetoothStatus" value="-1" />
+    <string name="ETCMBluetoothName">ETC-JY-0001</string>
+    <int name="ETCMActiveStatus" value="-1" />
+    <int name="ETCMSelfCheckDetailESAM" value="-1" />
+</map>
